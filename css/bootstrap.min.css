@@ -6844,6 +6844,21 @@ fieldset:disabled .btn {
 .bg-light {
   background-color: #fafafb !important;
 }
+.bg-grey {
+  background-color: #6c757d !important;
+}
+.bg-pink {
+  background-color: #d63384 !important;
+}
+.bg-blue {
+  background-color: #1c8ecc !important;
+}
+.bg-bluegreen {
+  background-color: #20c997 !important;
+}
+.bg-orange {
+  background-color: #fd7e14 !important;
+}
 .bg-dark {
   background-color: #12141d !important;
 }
